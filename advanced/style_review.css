@@ -1,0 +1,12 @@
+body {
+  background-image: url(https://images7.alphacoders.com/339/thumb-1920-339243.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#reviews {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 20px;
+  padding-top: 0.5cm;
+  padding-bottom: 0.5cm;
+}/*# sourceMappingURL=style_review.css.map */

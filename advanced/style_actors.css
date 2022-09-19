@@ -1,0 +1,28 @@
+body {
+  background-image: url(https://images7.alphacoders.com/339/thumb-1920-339243.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#navbar-right a {
+  color: black;
+}
+
+#umaT {
+  width: 50%;
+  background-color: rgba(255, 255, 255, 0.85);
+  border-radius: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+.picumaT {
+  display: flex;
+  margin: auto;
+  padding: 2%;
+}/*# sourceMappingURL=style_actors.css.map */
